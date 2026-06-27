@@ -38,43 +38,139 @@ recordingStart = 0
 
 #Keyboard event, will log if recording, automatically considers caps lock
 def controllerlogger(key):
-    #Get the events variable(namespaces = stinky)
     global keyEvents
-    #Only log if we are recording
+
     if not recording:
         return
-    #get lowercase version of the key
+
     recordedKey = key.name.lower()
-    #Prevent processing of key's that are not used in mosimulator
+
     if recordedKey not in gameKeybinds:
         return
-    
-    keyEvents.append({"time": time.perf_counter() - recordingStart, "key": key, "type": key.event_type})
 
+    keyEvents.append({
+        "time": time.perf_counter() - recordingStart,
+        "key": recordedKey,
+        "type": key.event_type
+    })
 keyboard.hook(controllerlogger)
 
 
 #Recording starter function
 def startAutoLogger(duration=20):
-    #namespaces are stinky so i global the earth
     global recording
-    global recordingStartglobal
+    global recordingStart
     global keyEvents
-    #Ensure the program is not recording events before recording
+
+    # Ensure we aren't already recording
     if recording:
-        print("Currently recording, cannot start another one!")
+        print("Currently recording!")
         return
+
+    # Clear previous recording
+    keyEvents.clear()
+
     print("Auto recording has begun")
-    #Fetch current time
-    recordingStart = time.perf_counter()
+
     recording = True
-    #sleepy time, Threading takes care of the logger so the program doesnt go kaboom
+    recordingStart = time.perf_counter()
+
+    # Record for the requested duration
     time.sleep(duration)
 
     recording = False
-    print("Finished recording your auto")
-    print(str(keyEvents))
 
-keyboard.add_hotkey("\\", lambda: threading.Thread(target=startAutoLogger, daemon=True).start())
+    print("Finished recording your auto")
+    print(f"Recorded {len(keyEvents)} events.")
+
+#Play the auto
+def playAuto():
+    global playing
+    global stopauto
+
+    if playing:
+        print("Already playing!")
+        return
+
+    if len(keyEvents) == 0:
+        print("No auto recorded.")
+        return
+
+    playing = True
+    stopauto = False
+
+    print("Starting auto")
+
+    previousTime = 0
+
+    for event in keyEvents:
+
+        if stopauto:
+            break
+
+        delay = event["time"] - previousTime
+
+        if delay > 0:
+            time.sleep(delay)
+
+        if stopauto:
+            break
+
+        if event["type"] == "down":
+            keyboard.press(event["key"])
+        else:
+            keyboard.release(event["key"])
+
+        previousTime = event["time"]
+
+    # Safety release
+    for key in gameKeybinds:
+        keyboard.release(key)
+
+    playing = False
+
+    print("Finished auto")
+
+def stopAuto():
+    global stopauto
+
+    stopauto = True
+
+    # Release all keys in case one is held
+    for key in gameKeybinds:
+        keyboard.release(key)
+
+    print("Auto stopped")
+        
+
+
+
+keyboard.add_hotkey(
+    "\\",
+    lambda: threading.Thread(
+        target=startAutoLogger,
+        daemon=True
+    ).start()
+)
+
+# Play recording
+keyboard.add_hotkey(
+    "r",
+    lambda: threading.Thread(
+        target=playAuto,
+        daemon=True
+    ).start()
+)
+
+# Stop playback
+keyboard.add_hotkey(
+    "ctrl",
+    stopAuto
+)
+
+print("MoSimulator AUTO System Ready!")
+print("\\ = Record")
+print("R = Play")
+print("Ctrl = Stop")
 
 keyboard.wait()
