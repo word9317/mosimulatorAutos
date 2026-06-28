@@ -2,6 +2,7 @@
 One limitation is that the game currently does not include an autonomous period, where a robot follows a pre-programmed routine. This project recreates that behavior by recording and replaying keyboard inputs.
 
 ## Overview
+[Demo Video](https://youtu.be/ruoJCHwV8D4)
 ### Features
  - Recording Auto stage(first 20 seconds of match)
  - Auto playback
