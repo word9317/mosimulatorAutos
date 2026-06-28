@@ -1,1 +1,15 @@
 __pycache__/
+# PyInstaller
+# =========================
+# Ignore the build directory containing temporary logs and object files
+build/
+
+# Ignore the output directory containing your final packaged executable(s)
+dist/
+
+# Optional: Ignore PyInstaller log files
+*.log
+
+# Optional: Ignore the generated .spec file 
+# (ONLY uncomment the line below if you prefer to generate it dynamically every time)
+# *.spec
