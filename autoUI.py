@@ -67,20 +67,18 @@ with dpg.window(label="AUTO MANAGER", width=400, height=380):
         callback=lambda: AUTO.stop()
     )
 
-def refresh():
-    update_ui()
 
 # 10 updates per second
-dpg.set_frame_callback(1, lambda: refresh())
-
 dpg.set_viewport_always_top(True)
 
 dpg.setup_dearpygui()
 dpg.show_viewport()
-dpg.start_dearpygui()
 
 while dpg.is_dearpygui_running():
-    update_ui()
+    # Update the text every frame
+    dpg.set_value("state", AUTO.getState())
+    dpg.set_value("events", str(AUTO.getEventCount()))
+
     dpg.render_dearpygui_frame()
 
 dpg.destroy_context()
