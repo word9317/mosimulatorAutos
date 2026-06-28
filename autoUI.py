@@ -1,11 +1,17 @@
 import dearpygui.dearpygui as dpg
 from autosystem import autoRecorder
 import keyboard
+import os
 
 AUTO = autoRecorder()
 
+autoName = "Auto"
+autoPath = os.path.join("autos", f"{autoName}.json")
+
 dpg.create_context()
-dpg.create_viewport(title="MoSimulator Auto", width=420, height=400)
+dpg.create_viewport(title="MoSimulator Auto", width=450, height=500)
+#saved auto directory
+os.makedirs("./autos", exist_ok=True)
 
 # an incredibly tuff theme(i give up on capitalizing comments
 with dpg.theme() as theme:
@@ -23,6 +29,67 @@ with dpg.theme() as theme:
 
 dpg.bind_theme(theme)
 
+def changeAutoSaveName(sender, app_data):
+    global autoPath
+    global autoName
+
+    autoName = app_data.strip()
+
+    if autoName == "":
+        autoName = "Auto"
+
+    autoPath = os.path.join("autos", f"{autoName}.json")
+
+    dpg.set_value("autoNameInput", autoName)
+
+    print(autoPath)
+
+def clearCurrentAuto():
+    AUTO.clearAuto()
+
+    dpg.set_value("events", "0")
+    dpg.set_value("saved", "Current auto cleared")
+
+
+    
+def saveAutoAndUpdate():
+    global autoPath
+
+    if autoPath == "":
+        autoPath = os.path.join("autos", f"{autoName}.json")
+
+    AUTO.saveAuto(autoPath)
+
+    refreshAutoList()
+
+    dpg.set_value("saved", f"Saved: {autoName}.json")
+
+def loadAuto():
+    global autoPath
+
+    if autoPath == "":
+        autoPath = os.path.join("autos", f"{autoName}.json")
+
+    if not os.path.exists(autoPath):
+        dpg.set_value("saved", "Auto not found!")
+        return
+
+    AUTO.loadAuto(autoPath)
+    dpg.set_value("events", str(AUTO.getEventCount()))
+    dpg.set_value("saved", f"Loaded: {autoName}.json")
+
+def refreshAutoList():
+
+    files = []
+
+    for file in os.listdir("autos"):
+        if file.endswith(".json"):
+            files.append(file[:-5])
+
+    dpg.configure_item("autoList", items=files)
+
+
+
 # helper functions cause im lazy
 def update_ui():
 
@@ -33,7 +100,7 @@ keyboard.add_hotkey("\\", AUTO.startRecordingThread)
 keyboard.add_hotkey("]", AUTO.playThread)
 keyboard.add_hotkey("ctrl", AUTO.stop)
 
-with dpg.window(label="AUTO MANAGER", width=400, height=380):
+with dpg.window(label="AUTO MANAGER", width=420, height=450):
     dpg.add_text("MoSimulator AUTO System",color=(0, 180, 255))
     dpg.add_separator()
     dpg.add_text("Made by word9317")
@@ -66,6 +133,21 @@ with dpg.window(label="AUTO MANAGER", width=400, height=380):
         width=-1,
         callback=lambda: AUTO.stop()
     )
+    dpg.add_button(
+        label="Clear current Auto",
+        width=-1,
+        callback=lambda: clearCurrentAuto()
+    )
+    dpg.add_separator()
+    dpg.add_input_text(tag="autoNameInput", label="Auto Name", callback=changeAutoSaveName, on_enter=False)
+    dpg.add_button(
+        label="Save Auto",
+        width=-1,
+        callback=lambda: saveAutoAndUpdate()
+    )
+    dpg.add_text("Unsaved auto", tag="saved")
+    dpg.add_listbox([], tag="autoList", width=-1, num_items=6, callback=lambda s, a: changeAutoSaveName(s, a))
+    dpg.add_button(label="Load Auto", width=-1, callback=lambda: loadAuto())
 
 
 # 10 updates per second
@@ -73,11 +155,11 @@ dpg.set_viewport_always_top(True)
 
 dpg.setup_dearpygui()
 dpg.show_viewport()
+refreshAutoList()
 
 while dpg.is_dearpygui_running():
-    # Update the text every frame
-    dpg.set_value("state", AUTO.getState())
-    dpg.set_value("events", str(AUTO.getEventCount()))
+
+    update_ui()
 
     dpg.render_dearpygui_frame()
 

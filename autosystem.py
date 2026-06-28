@@ -1,6 +1,7 @@
 import keyboard
 import threading
 import time
+import json
 
 class autoRecorder:
     def __init__(self):
@@ -53,6 +54,9 @@ class autoRecorder:
 
         if duration is None:
             duration = self.autoTime
+        if self.playing:
+            print("Cannot record while playing.")
+            return
 
         if self.recording:
             print("Already recording.")
@@ -89,6 +93,9 @@ class autoRecorder:
     def play(self):
 
         if self.playing:
+            return
+        if self.recording:
+            print("Cannot play while recording.")
             return
 
         if len(self.keyEvents) == 0:
@@ -152,7 +159,48 @@ class autoRecorder:
         self.state = "Idle"
 
         print("Playback stopped.")
+    
+    def clearAuto(self):
+        self.keyEvents.clear()
 
+    def saveAuto(self, filename):
+        data = {
+            "version": 1,
+            "events": self.keyEvents
+        }
+
+        try:
+            with open(filename, "w") as file:
+                json.dump(data, file, indent=4) 
+            print(f"Saved auto to {filename}")
+
+        except Exception as e:
+            print(e)
+    
+    def loadAuto(self, filename):
+        try:
+
+            with open(filename, "r") as file:
+                data = json.load(file)
+
+            self.keyEvents = data.get("events", [])
+
+            print(f"Loaded auto from {filename}")
+
+        except Exception as e:
+            print(e)
+    def getAutoNames(self):
+
+        import os
+
+        if not os.path.exists("autos"):
+            return []
+
+        return sorted(
+            file[:-5]
+            for file in os.listdir("autos")
+            if file.endswith(".json")
+        )
 
     #Helper functions(used in ui and stuff)
     def getState(self):
