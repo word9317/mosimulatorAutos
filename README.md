@@ -39,6 +39,8 @@ python main.py
 ```
 
 ### Shortcuts
+### IMPORTANT
+Make sure your game is on borderless instead of fullscreen.
 
 | Key | Action |
 |------|--------|

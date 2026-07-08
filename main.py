@@ -2,6 +2,9 @@ import dearpygui.dearpygui as dpg
 from autosystem import autoRecorder
 import keyboard
 import os
+# library to make popups look like windows, used for popup window
+import ctypes
+ctypes.windll.user32.MessageBoxW(0, "Make sure MoSimulator is on Borderless fullscreen or windowed", "Window Title", 1)
 
 AUTO = autoRecorder()
 
@@ -103,7 +106,7 @@ keyboard.add_hotkey("ctrl", AUTO.stop)
 with dpg.window(label="AUTO MANAGER", width=420, height=600):
     dpg.add_text("MoSimulator AUTO System",color=(0, 180, 255))
     dpg.add_separator()
-    dpg.add_text("Made by word9317")
+    dpg.add_text("Made by word9317(sircheetodust)")
     # status related stuff
     dpg.add_spacer(height=5)
     dpg.add_text("Current Status")
