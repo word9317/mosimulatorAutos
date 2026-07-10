@@ -50,9 +50,12 @@ Make sure your game is on borderless instead of fullscreen.
 | `Ctrl` | Stop playback immediately(if something goes wrong) |
 
 ## Changelog
-1.0 - Initial release
-1.1 - Minor fixes
-1.2 - Full UI transition to tkinter
+### 1.0 - Initial release
+### 1.1 - Minor fixes
+### 1.2 - Full UI transition to tkinter, Change keybinds
+ - Transitioned to tkinter
+ - Added some tips into the application(borderless mode and keyboard shortcuts)
+ - Added ability to change keybinds
 
 ## Credits
 
