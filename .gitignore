@@ -14,3 +14,4 @@ dist/
 # (ONLY uncomment the line below if you prefer to generate it dynamically every time)
 # *.spec
 /v2/
+v2/autosystem.py
