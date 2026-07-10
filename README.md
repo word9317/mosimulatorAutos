@@ -49,6 +49,11 @@ Make sure your game is on borderless instead of fullscreen.
 | `]` | Play the recorded auto |
 | `Ctrl` | Stop playback immediately(if something goes wrong) |
 
+## Changelog
+1.0 - Initial release
+1.1 - Minor fixes
+1.2 - Full UI transition to tkinter
+
 ## Credits
 
 Created by word9317.
