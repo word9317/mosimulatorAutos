@@ -38,6 +38,8 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+### TUTORIAL:
+[text](https://youtu.be/8YWMb9f-9nQ)
 
 ### Shortcuts
 ### IMPORTANT
