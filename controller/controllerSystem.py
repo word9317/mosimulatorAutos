@@ -33,7 +33,7 @@ try:
                 v_gamepad.left_joystick(x_value=state["LX"], y_value=state["LY"])
 
 
-            # --- RIGHT JOYSTICK ---
+            # right joystick
             elif event.code == 'ABS_RX':
                 state["RX"] = scale_axis(event.state)
                 v_gamepad.right_joystick(x_value=state["RX"], y_value=state["RY"])
@@ -42,13 +42,13 @@ try:
                 v_gamepad.right_joystick(x_value=state["RX"], y_value=state["RY"])
 
 
-            # --- ANALOG TRIGGERS (0 to 255) ---
+            # triggers
             elif event.code == 'ABS_Z': # Left Trigger
                 v_gamepad.left_trigger(value=event.state)
             elif event.code == 'ABS_RZ': # Right Trigger
                 v_gamepad.right_trigger(value=event.state)
 
-            # --- FACE BUTTONS ---
+            # buttons
             elif event.code == 'BTN_SOUTH': # A Button
                 v_gamepad.press_button(vg.XUSB_BUTTON.XUSB_GAMEPAD_A) if event.state else v_gamepad.release_button(vg.XUSB_BUTTON.XUSB_GAMEPAD_A)
             elif event.code == 'BTN_EAST':  # B Button
@@ -58,7 +58,7 @@ try:
             elif event.code == 'BTN_WEST':  # Y Button
                 v_gamepad.press_button(vg.XUSB_BUTTON.XUSB_GAMEPAD_Y) if event.state else v_gamepad.release_button(vg.XUSB_BUTTON.XUSB_GAMEPAD_Y)
 
-            # --- BUMPERS & STICK CLICKS ---
+            # bumpers and joystick presses
             elif event.code == 'BTN_TL': # Left Bumper (LB)
                 v_gamepad.press_button(vg.XUSB_BUTTON.XUSB_GAMEPAD_LEFT_SHOULDER) if event.state else v_gamepad.release_button(vg.XUSB_BUTTON.XUSB_GAMEPAD_LEFT_SHOULDER)
             elif event.code == 'BTN_TR': # Right Bumper (RB)
@@ -68,13 +68,13 @@ try:
             elif event.code == 'BTN_THUMBR': # Right Stick Click
                 v_gamepad.press_button(vg.XUSB_BUTTON.XUSB_GAMEPAD_RIGHT_THUMB) if event.state else v_gamepad.release_button(vg.XUSB_BUTTON.XUSB_GAMEPAD_RIGHT_THUMB)
 
-            # --- SYSTEM BUTTONS ---
+            # start and select button presses
             elif event.code == 'BTN_START': # Menu / Start
                 v_gamepad.press_button(vg.XUSB_BUTTON.XUSB_GAMEPAD_START) if event.state else v_gamepad.release_button(vg.XUSB_BUTTON.XUSB_GAMEPAD_START)
             elif event.code == 'BTN_SELECT': # View / Back
                 v_gamepad.press_button(vg.XUSB_BUTTON.XUSB_GAMEPAD_BACK) if event.state else v_gamepad.release_button(vg.XUSB_BUTTON.XUSB_GAMEPAD_BACK)
 
-            # --- DPAD ---
+            # dpad
             elif event.code == 'ABS_HAT0X': # Dpad Left/Right
                 if event.state == -1:
                     v_gamepad.press_button(vg.XUSB_BUTTON.XUSB_GAMEPAD_DPAD_LEFT)
@@ -84,8 +84,8 @@ try:
                     v_gamepad.release_button(vg.XUSB_BUTTON.XUSB_GAMEPAD_DPAD_LEFT)
                     v_gamepad.release_button(vg.XUSB_BUTTON.XUSB_GAMEPAD_DPAD_RIGHT)
                     
-            elif event.code == 'ABS_HAT0Y': # Dpad Up/Down
-                # Inputs library tracks UP as -1, DOWN as 1
+            elif event.code == 'ABS_HAT0Y': #dpad
+                # -1=up 1=down
                 if event.state == -1:
                     v_gamepad.press_button(vg.XUSB_BUTTON.XUSB_GAMEPAD_DPAD_UP)
                 elif event.state == 1:
@@ -94,7 +94,7 @@ try:
                     v_gamepad.release_button(vg.XUSB_BUTTON.XUSB_GAMEPAD_DPAD_UP)
                     v_gamepad.release_button(vg.XUSB_BUTTON.XUSB_GAMEPAD_DPAD_DOWN)
 
-            # Send updates to the OS immediately after processing each hardware event
+            # update controller
             v_gamepad.update()
 
 except KeyboardInterrupt:
