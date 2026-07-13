@@ -290,7 +290,8 @@ class controllerAuto:
     def getGameKeybinds(self): return self.game_keybinds
     def setGameKeybinds(self, lst): self.game_keybinds = lst
     def getState(self): return self.state
-    def getEventCount(self): return len(self.macroEvents)
+    def getEventCount(self): 
+        return len(self.AutoEvents)
 
     def saveKeybindConfig(self):
         try:

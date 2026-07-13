@@ -88,7 +88,8 @@ def update_ui_loop():
     try:
         state_label.config(text=AUTO.getState())
         events_label.config(text=str(AUTO.getEventCount()))
-    except Exception:
+    except Exception as e:
+        print(f"Error in UI loop: {e}")
         pass
     
     # Call this loop again in 100ms
