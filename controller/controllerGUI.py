@@ -2,7 +2,7 @@ import os
 import tkinter as tk
 from tkinter import messagebox
 from controllerautosystem import controllerAuto
-
+# pyinstaller --noconsole --onefile --collect-binaries=vgamepad controllerGUI.py
 # Remind the user
 messagebox.showinfo(
     "Make sure your settings are right!", 
@@ -105,7 +105,7 @@ def update_button_labels():
 
 def open_settings():
     settings_win = tk.Toplevel(root)
-    settings_win.title("Keybind Settings")
+    settings_win.title("Keybind Settings IGNORE PLS")
     settings_win.geometry("420x380")
     settings_win.configure(bg=BG_COLOR)
     settings_win.attributes("-topmost", True)
@@ -166,7 +166,7 @@ def open_settings():
 # --- Tkinter Window Setup ---
 root = tk.Tk()
 root.title("MoSimulator Auto")
-root.geometry("450x650")
+root.geometry("450x700")
 root.attributes("-topmost", True)  # Always on top
 
 # Dark Palette Colors
@@ -213,7 +213,7 @@ play_btn.pack(fill=tk.X, pady=3)
 stop_btn = create_button("Stop Auto ('ctrl' key btw)", AUTO.stop)
 stop_btn.pack(fill=tk.X, pady=3)
 create_button("Clear current Auto", clearCurrentAuto).pack(fill=tk.X, pady=3)
-create_button("Keybind Settings", open_settings).pack(fill=tk.X, pady=3)
+create_button("Keybind Settings IGNORE TS", open_settings).pack(fill=tk.X, pady=3)
 
 # Input Name Section
 input_frame = tk.Frame(main_frame, bg=BG_COLOR)

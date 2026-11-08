@@ -139,13 +139,17 @@ class autoRecorder:
 
         self.keyEvents.clear()
 
-        self.recording = True
         self.state = "Recording"
 
         time.sleep(1)
         keyboard.press_and_release("r")
 
+        # Start logging only after the countdown/reset, otherwise keys pressed
+        # during the 1 second delay get timestamps relative to the wrong (or
+        # previous) recordingStart, producing huge event times that make
+        # playback sleep for hours before doing anything.
         self.recordingStart = time.perf_counter()
+        self.recording = True
 
         print("Recording started.")
 

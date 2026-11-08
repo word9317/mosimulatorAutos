@@ -1,0 +1,5615 @@
+{
+    "version": 1,
+    "events": [
+        {
+            "time": 0.7159939000848681,
+            "code": "ABS_X",
+            "state": -2101
+        },
+        {
+            "time": 0.7161929999710992,
+            "code": "ABS_Y",
+            "state": -5385
+        },
+        {
+            "time": 0.716232500039041,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 0.7310937000438571,
+            "code": "ABS_X",
+            "state": -2127
+        },
+        {
+            "time": 0.7311936999903992,
+            "code": "ABS_Y",
+            "state": -8260
+        },
+        {
+            "time": 0.7312443000264466,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 0.7456943000433967,
+            "code": "ABS_Y",
+            "state": -11346
+        },
+        {
+            "time": 0.7457520000170916,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 0.7610690000001341,
+            "code": "ABS_X",
+            "state": -2101
+        },
+        {
+            "time": 0.7611498000333086,
+            "code": "ABS_Y",
+            "state": -13615
+        },
+        {
+            "time": 0.7611804000334814,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 0.7760086000198498,
+            "code": "ABS_X",
+            "state": -2127
+        },
+        {
+            "time": 0.7761478000320494,
+            "code": "ABS_Y",
+            "state": -14765
+        },
+        {
+            "time": 0.7761995000764728,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 0.7907963000470772,
+            "code": "ABS_Y",
+            "state": -15188
+        },
+        {
+            "time": 0.7908605000702664,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 0.8060796000063419,
+            "code": "ABS_Y",
+            "state": -15309
+        },
+        {
+            "time": 0.8061292000347748,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 0.8357440000399947,
+            "code": "ABS_Y",
+            "state": -15340
+        },
+        {
+            "time": 0.8358180000213906,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 0.8661979000316933,
+            "code": "ABS_Y",
+            "state": -15370
+        },
+        {
+            "time": 0.8662850999971852,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 0.8807588000781834,
+            "code": "ABS_Y",
+            "state": -15340
+        },
+        {
+            "time": 0.8808018000563607,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 0.8958355999784544,
+            "code": "ABS_X",
+            "state": -2101
+        },
+        {
+            "time": 0.8958778000669554,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 0.910935000050813,
+            "code": "ABS_X",
+            "state": -2127
+        },
+        {
+            "time": 0.9110078000230715,
+            "code": "ABS_Y",
+            "state": -15400
+        },
+        {
+            "time": 0.9110384000232443,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 0.9258010999765247,
+            "code": "ABS_X",
+            "state": -2153
+        },
+        {
+            "time": 0.9259124000091106,
+            "code": "ABS_Y",
+            "state": -15340
+        },
+        {
+            "time": 0.9259671000763774,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 0.9407699999865144,
+            "code": "ABS_X",
+            "state": -1945
+        },
+        {
+            "time": 0.9408303999807686,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 0.9561317000770941,
+            "code": "ABS_X",
+            "state": -1816
+        },
+        {
+            "time": 0.956265400047414,
+            "code": "ABS_Y",
+            "state": -15309
+        },
+        {
+            "time": 0.9563458000775427,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 0.970766199985519,
+            "code": "ABS_Y",
+            "state": -15340
+        },
+        {
+            "time": 0.9708056000526994,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 0.9858290000120178,
+            "code": "ABS_X",
+            "state": -1790
+        },
+        {
+            "time": 0.9859433000674471,
+            "code": "ABS_Y",
+            "state": -15370
+        },
+        {
+            "time": 0.9859946999931708,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.0008173000533134,
+            "code": "ABS_X",
+            "state": -1816
+        },
+        {
+            "time": 1.000886800000444,
+            "code": "ABS_Y",
+            "state": -15340
+        },
+        {
+            "time": 1.0009159999899566,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.0159829000476748,
+            "code": "ABS_X",
+            "state": -1790
+        },
+        {
+            "time": 1.01603439997416,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.0467554000206292,
+            "code": "ABS_X",
+            "state": -1764
+        },
+        {
+            "time": 1.0468169000232592,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.060880700009875,
+            "code": "ABS_X",
+            "state": -1790
+        },
+        {
+            "time": 1.0609266000101343,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.0762699000770226,
+            "code": "ABS_X",
+            "state": -1816
+        },
+        {
+            "time": 1.0763324999716133,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.0915145999751985,
+            "code": "ABS_X",
+            "state": -1790
+        },
+        {
+            "time": 1.0917062000371516,
+            "code": "ABS_Y",
+            "state": -15309
+        },
+        {
+            "time": 1.091791299986653,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.1060283000115305,
+            "code": "ABS_Y",
+            "state": -15340
+        },
+        {
+            "time": 1.106282600085251,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.1212114000227302,
+            "code": "ABS_Y",
+            "state": -15370
+        },
+        {
+            "time": 1.1212731000268832,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.1358221999835223,
+            "code": "ABS_Y",
+            "state": -15340
+        },
+        {
+            "time": 1.1358703000005335,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.1509009000146762,
+            "code": "ABS_X",
+            "state": -1816
+        },
+        {
+            "time": 1.1509414999745786,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.1660316999768838,
+            "code": "ABS_X",
+            "state": -1738
+        },
+        {
+            "time": 1.1661528000840917,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.1812006999971345,
+            "code": "ABS_X",
+            "state": -1271
+        },
+        {
+            "time": 1.1813222999917343,
+            "code": "ABS_Y",
+            "state": -15370
+        },
+        {
+            "time": 1.1813699000049382,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.1961566000245512,
+            "code": "ABS_X",
+            "state": -726
+        },
+        {
+            "time": 1.1962118999799713,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.2112188000464812,
+            "code": "ABS_X",
+            "state": -311
+        },
+        {
+            "time": 1.2113612000830472,
+            "code": "ABS_Y",
+            "state": -15400
+        },
+        {
+            "time": 1.2114154000300914,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.2257563000312075,
+            "code": "ABS_X",
+            "state": -233
+        },
+        {
+            "time": 1.2258614000165835,
+            "code": "ABS_Y",
+            "state": -15340
+        },
+        {
+            "time": 1.2259068000130355,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.2413295999867842,
+            "code": "ABS_Y",
+            "state": -15370
+        },
+        {
+            "time": 1.2414069999940693,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.256169900065288,
+            "code": "ABS_X",
+            "state": -181
+        },
+        {
+            "time": 1.2562301000580192,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.2857610000064597,
+            "code": "ABS_X",
+            "state": -155
+        },
+        {
+            "time": 1.2858364999992773,
+            "code": "ABS_Y",
+            "state": -15430
+        },
+        {
+            "time": 1.2858676000032574,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.3010950000025332,
+            "code": "ABS_Y",
+            "state": -15400
+        },
+        {
+            "time": 1.301189100020565,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.330836300039664,
+            "code": "ABS_Y",
+            "state": -15430
+        },
+        {
+            "time": 1.330890699988231,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.3458678000606596,
+            "code": "ABS_X",
+            "state": -129
+        },
+        {
+            "time": 1.3459253000328317,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.3607998000225052,
+            "code": "ABS_X",
+            "state": -155
+        },
+        {
+            "time": 1.3609324999852106,
+            "code": "ABS_Y",
+            "state": -15400
+        },
+        {
+            "time": 1.3609743000706658,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.3761040000244975,
+            "code": "ABS_Y",
+            "state": -15461
+        },
+        {
+            "time": 1.3761745999800041,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.4058322000782937,
+            "code": "ABS_X",
+            "state": -129
+        },
+        {
+            "time": 1.40590830007568,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.4209611000260338,
+            "code": "ABS_X",
+            "state": -155
+        },
+        {
+            "time": 1.421076099970378,
+            "code": "ABS_Y",
+            "state": -15430
+        },
+        {
+            "time": 1.4211446000263095,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.4359658000757918,
+            "code": "ABS_X",
+            "state": -207
+        },
+        {
+            "time": 1.4361420000204816,
+            "code": "ABS_Y",
+            "state": -15491
+        },
+        {
+            "time": 1.4361971999751404,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.4513913000700995,
+            "code": "ABS_Z",
+            "state": 255
+        },
+        {
+            "time": 1.4515084000304341,
+            "code": "ABS_X",
+            "state": -103
+        },
+        {
+            "time": 1.4515859000384808,
+            "code": "ABS_Y",
+            "state": -15461
+        },
+        {
+            "time": 1.451734000002034,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.4660189000423998,
+            "code": "ABS_X",
+            "state": -25
+        },
+        {
+            "time": 1.4661270000506192,
+            "code": "ABS_Y",
+            "state": -15551
+        },
+        {
+            "time": 1.4661697000265121,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.4811689000343904,
+            "code": "ABS_X",
+            "state": 0
+        },
+        {
+            "time": 1.481262700050138,
+            "code": "ABS_Y",
+            "state": -15521
+        },
+        {
+            "time": 1.481297800084576,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.495866300072521,
+            "code": "ABS_Y",
+            "state": -15551
+        },
+        {
+            "time": 1.4959900000831112,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.5110317000653595,
+            "code": "ABS_X",
+            "state": 28
+        },
+        {
+            "time": 1.5111377000575885,
+            "code": "ABS_Y",
+            "state": -15582
+        },
+        {
+            "time": 1.511204699985683,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.5261480000335723,
+            "code": "ABS_X",
+            "state": 57
+        },
+        {
+            "time": 1.526276000076905,
+            "code": "ABS_Y",
+            "state": -15521
+        },
+        {
+            "time": 1.5263224000809714,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.5412587000755593,
+            "code": "ABS_X",
+            "state": 28
+        },
+        {
+            "time": 1.541606100043282,
+            "code": "ABS_Y",
+            "state": -15582
+        },
+        {
+            "time": 1.541656400077045,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.5707915000384673,
+            "code": "ABS_Y",
+            "state": -15642
+        },
+        {
+            "time": 1.5708371000364423,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.586203100043349,
+            "code": "ABS_Y",
+            "state": -15763
+        },
+        {
+            "time": 1.5862529000733048,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.601086899987422,
+            "code": "ABS_X",
+            "state": -77
+        },
+        {
+            "time": 1.6011355000082403,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.6158317000372335,
+            "code": "ABS_X",
+            "state": -1375
+        },
+        {
+            "time": 1.616007599979639,
+            "code": "ABS_Y",
+            "state": -15703
+        },
+        {
+            "time": 1.6160640000598505,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.631122300052084,
+            "code": "ABS_X",
+            "state": -2257
+        },
+        {
+            "time": 1.6313358000479639,
+            "code": "ABS_Y",
+            "state": -15763
+        },
+        {
+            "time": 1.631405399995856,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.6459100000793114,
+            "code": "ABS_X",
+            "state": -2412
+        },
+        {
+            "time": 1.6460797999752685,
+            "code": "ABS_Y",
+            "state": -15884
+        },
+        {
+            "time": 1.646130400011316,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.6609338000416756,
+            "code": "ABS_X",
+            "state": -2516
+        },
+        {
+            "time": 1.6610416000476107,
+            "code": "ABS_Y",
+            "state": -16005
+        },
+        {
+            "time": 1.6610765000805259,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.675971999997273,
+            "code": "ABS_X",
+            "state": -2568
+        },
+        {
+            "time": 1.6762902999762446,
+            "code": "ABS_Y",
+            "state": -15975
+        },
+        {
+            "time": 1.6763654000824317,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.6911563000176102,
+            "code": "ABS_X",
+            "state": -2672
+        },
+        {
+            "time": 1.6913853000150993,
+            "code": "ABS_Y",
+            "state": -16005
+        },
+        {
+            "time": 1.6916157000232488,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.7061809999868274,
+            "code": "ABS_X",
+            "state": -3009
+        },
+        {
+            "time": 1.7062425999902189,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.7212231999728829,
+            "code": "ABS_X",
+            "state": -3891
+        },
+        {
+            "time": 1.7213310999795794,
+            "code": "ABS_Y",
+            "state": -16126
+        },
+        {
+            "time": 1.721366300014779,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.7360008000396192,
+            "code": "ABS_X",
+            "state": -5915
+        },
+        {
+            "time": 1.7360767000354826,
+            "code": "ABS_Y",
+            "state": -16247
+        },
+        {
+            "time": 1.736136500025168,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.751302200020291,
+            "code": "ABS_X",
+            "state": -8094
+        },
+        {
+            "time": 1.751433000084944,
+            "code": "ABS_Y",
+            "state": -16762
+        },
+        {
+            "time": 1.7514894000487402,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.765914099989459,
+            "code": "ABS_X",
+            "state": -11156
+        },
+        {
+            "time": 1.7660878000315279,
+            "code": "ABS_Y",
+            "state": -16913
+        },
+        {
+            "time": 1.7661452000029385,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.7817418000195175,
+            "code": "ABS_X",
+            "state": -12842
+        },
+        {
+            "time": 1.7818584999768063,
+            "code": "ABS_Y",
+            "state": -17034
+        },
+        {
+            "time": 1.7819017000729218,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.7957266999874264,
+            "code": "ABS_X",
+            "state": -13179
+        },
+        {
+            "time": 1.7958052000030875,
+            "code": "ABS_Y",
+            "state": -17185
+        },
+        {
+            "time": 1.7958385000238195,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.825967299984768,
+            "code": "ABS_X",
+            "state": -13465
+        },
+        {
+            "time": 1.8260700000682846,
+            "code": "ABS_Y",
+            "state": -17306
+        },
+        {
+            "time": 1.8261160000693053,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.8268352000741288,
+            "code": "ABS_X",
+            "state": -13672
+        },
+        {
+            "time": 1.8269465999910608,
+            "code": "ABS_Y",
+            "state": -17427
+        },
+        {
+            "time": 1.826995800016448,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.841054700082168,
+            "code": "ABS_X",
+            "state": -14036
+        },
+        {
+            "time": 1.8413898000726476,
+            "code": "ABS_Y",
+            "state": -17548
+        },
+        {
+            "time": 1.8414477000478655,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.8558138000080362,
+            "code": "ABS_X",
+            "state": -14451
+        },
+        {
+            "time": 1.855933399987407,
+            "code": "ABS_Y",
+            "state": -17821
+        },
+        {
+            "time": 1.8559923999710009,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.8710489000659436,
+            "code": "ABS_X",
+            "state": -15099
+        },
+        {
+            "time": 1.8711676000384614,
+            "code": "ABS_Y",
+            "state": -18214
+        },
+        {
+            "time": 1.8712032000767067,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.8857650000136346,
+            "code": "ABS_X",
+            "state": -15281
+        },
+        {
+            "time": 1.8858990999870002,
+            "code": "ABS_Y",
+            "state": -18759
+        },
+        {
+            "time": 1.885937700048089,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.9008833999978378,
+            "code": "ABS_X",
+            "state": -15385
+        },
+        {
+            "time": 1.9009919000091031,
+            "code": "ABS_Y",
+            "state": -18970
+        },
+        {
+            "time": 1.9010317000793293,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.916209700051695,
+            "code": "ABS_X",
+            "state": -15411
+        },
+        {
+            "time": 1.916313000023365,
+            "code": "ABS_Y",
+            "state": -19001
+        },
+        {
+            "time": 1.916359700029716,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.9312791000120342,
+            "code": "ABS_X",
+            "state": -15437
+        },
+        {
+            "time": 1.931330000050366,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.946027599973604,
+            "code": "ABS_Y",
+            "state": -19061
+        },
+        {
+            "time": 1.9460869000758976,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.9608264000853524,
+            "code": "ABS_Y",
+            "state": -19122
+        },
+        {
+            "time": 1.9609068999998271,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.9759780999738723,
+            "code": "ABS_Y",
+            "state": -19091
+        },
+        {
+            "time": 1.9760357000632212,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 1.9910517000826076,
+            "code": "ABS_X",
+            "state": -15411
+        },
+        {
+            "time": 1.991200300049968,
+            "code": "ABS_Y",
+            "state": -19061
+        },
+        {
+            "time": 1.9912565000122413,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.0059355000266805,
+            "code": "ABS_X",
+            "state": -15462
+        },
+        {
+            "time": 2.0059970000293106,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.020930700004101,
+            "code": "ABS_Y",
+            "state": -19031
+        },
+        {
+            "time": 2.021023800014518,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.0359463000204414,
+            "code": "ABS_X",
+            "state": -15437
+        },
+        {
+            "time": 2.036104900063947,
+            "code": "ABS_Y",
+            "state": -19091
+        },
+        {
+            "time": 2.036162600037642,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.050819900003262,
+            "code": "ABS_X",
+            "state": -15411
+        },
+        {
+            "time": 2.050915600033477,
+            "code": "ABS_Y",
+            "state": -19061
+        },
+        {
+            "time": 2.050958800013177,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.0658620999893174,
+            "code": "ABS_X",
+            "state": -15437
+        },
+        {
+            "time": 2.0659493000712246,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.081283700070344,
+            "code": "ABS_X",
+            "state": -15411
+        },
+        {
+            "time": 2.081330200075172,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.096006700070575,
+            "code": "ABS_Y",
+            "state": -19091
+        },
+        {
+            "time": 2.0960674000671133,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.12607930006925,
+            "code": "ABS_X",
+            "state": -15437
+        },
+        {
+            "time": 2.126146399998106,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.140944499988109,
+            "code": "ABS_X",
+            "state": -15411
+        },
+        {
+            "time": 2.141060500056483,
+            "code": "ABS_Y",
+            "state": -19061
+        },
+        {
+            "time": 2.1411081000696868,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.156205500010401,
+            "code": "ABS_Y",
+            "state": -19091
+        },
+        {
+            "time": 2.15626209997572,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.171207300038077,
+            "code": "ABS_X",
+            "state": -15437
+        },
+        {
+            "time": 2.1712709000566974,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.185903000063263,
+            "code": "ABS_X",
+            "state": -15462
+        },
+        {
+            "time": 2.1859910000348464,
+            "code": "ABS_Y",
+            "state": -19122
+        },
+        {
+            "time": 2.1860328000038862,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.2007880000164732,
+            "code": "ABS_Y",
+            "state": -19213
+        },
+        {
+            "time": 2.2008403000654653,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.2159593000542372,
+            "code": "ABS_X",
+            "state": -15488
+        },
+        {
+            "time": 2.2160711999749765,
+            "code": "ABS_Y",
+            "state": -19303
+        },
+        {
+            "time": 2.2161141000688076,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.2312358000781387,
+            "code": "ABS_X",
+            "state": -15514
+        },
+        {
+            "time": 2.2313963000196964,
+            "code": "ABS_Y",
+            "state": -19334
+        },
+        {
+            "time": 2.2314828999806195,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.245671599986963,
+            "code": "ABS_Y",
+            "state": -19364
+        },
+        {
+            "time": 2.245770000037737,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.26092430006247,
+            "code": "ABS_X",
+            "state": -15488
+        },
+        {
+            "time": 2.2610393000068143,
+            "code": "ABS_Y",
+            "state": -19394
+        },
+        {
+            "time": 2.2610773000633344,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.276147500029765,
+            "code": "ABS_X",
+            "state": -15540
+        },
+        {
+            "time": 2.276217899983749,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.2910320999799296,
+            "code": "ABS_X",
+            "state": -15566
+        },
+        {
+            "time": 2.2910720000509173,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.3058747000759467,
+            "code": "ABS_X",
+            "state": -15826
+        },
+        {
+            "time": 2.30596060003154,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.321153900003992,
+            "code": "ABS_X",
+            "state": -16241
+        },
+        {
+            "time": 2.3212908999994397,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.335785200004466,
+            "code": "ABS_X",
+            "state": -16863
+        },
+        {
+            "time": 2.3359246000181884,
+            "code": "ABS_Y",
+            "state": -19303
+        },
+        {
+            "time": 2.335976600064896,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.350875200005248,
+            "code": "ABS_X",
+            "state": -17408
+        },
+        {
+            "time": 2.3509709000354633,
+            "code": "ABS_Y",
+            "state": -19455
+        },
+        {
+            "time": 2.351015600026585,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.365898900083266,
+            "code": "ABS_X",
+            "state": -18524
+        },
+        {
+            "time": 2.3660649000667036,
+            "code": "ABS_Y",
+            "state": -19394
+        },
+        {
+            "time": 2.3661154999863356,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.380856500007212,
+            "code": "ABS_X",
+            "state": -19873
+        },
+        {
+            "time": 2.3809947000117972,
+            "code": "ABS_Y",
+            "state": -19485
+        },
+        {
+            "time": 2.381039600004442,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.395924000069499,
+            "code": "ABS_X",
+            "state": -21326
+        },
+        {
+            "time": 2.396081899991259,
+            "code": "ABS_Y",
+            "state": -19394
+        },
+        {
+            "time": 2.3961277999915183,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.411273100064136,
+            "code": "ABS_X",
+            "state": -22130
+        },
+        {
+            "time": 2.411569199990481,
+            "code": "ABS_Y",
+            "state": -18396
+        },
+        {
+            "time": 2.411622100044042,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.4262386000482365,
+            "code": "ABS_X",
+            "state": -22390
+        },
+        {
+            "time": 2.4263878000201657,
+            "code": "ABS_Y",
+            "state": -16368
+        },
+        {
+            "time": 2.4264391000615433,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.441500600078143,
+            "code": "ABS_X",
+            "state": -22623
+        },
+        {
+            "time": 2.4418107999954373,
+            "code": "ABS_Y",
+            "state": -13252
+        },
+        {
+            "time": 2.441862800042145,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.4563840000191703,
+            "code": "ABS_Y",
+            "state": -11951
+        },
+        {
+            "time": 2.456526600057259,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.470771500025876,
+            "code": "ABS_X",
+            "state": -22649
+        },
+        {
+            "time": 2.4708396000787616,
+            "code": "ABS_Y",
+            "state": -11800
+        },
+        {
+            "time": 2.4708728999830782,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.5010066999820992,
+            "code": "ABS_X",
+            "state": -22623
+        },
+        {
+            "time": 2.501156400074251,
+            "code": "ABS_Y",
+            "state": -11830
+        },
+        {
+            "time": 2.501208300003782,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.515818800078705,
+            "code": "ABS_Y",
+            "state": -11769
+        },
+        {
+            "time": 2.51587720005773,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.5311171000357717,
+            "code": "ABS_Y",
+            "state": -11800
+        },
+        {
+            "time": 2.5311656000558287,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.5461761000333354,
+            "code": "ABS_X",
+            "state": -22649
+        },
+        {
+            "time": 2.546226300066337,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.5609904000302777,
+            "code": "ABS_X",
+            "state": -22623
+        },
+        {
+            "time": 2.5610606999835,
+            "code": "ABS_Y",
+            "state": -11890
+        },
+        {
+            "time": 2.5610893999692053,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.57688920001965,
+            "code": "ABS_X",
+            "state": -22649
+        },
+        {
+            "time": 2.5770670999772847,
+            "code": "ABS_Y",
+            "state": -11769
+        },
+        {
+            "time": 2.5771169000072405,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.5910526000661775,
+            "code": "ABS_Y",
+            "state": -11830
+        },
+        {
+            "time": 2.59110080008395,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.606039399979636,
+            "code": "ABS_X",
+            "state": -22701
+        },
+        {
+            "time": 2.6060898000141606,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.620967800030485,
+            "code": "ABS_Y",
+            "state": -11800
+        },
+        {
+            "time": 2.621019900077954,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.650945600005798,
+            "code": "ABS_X",
+            "state": -22675
+        },
+        {
+            "time": 2.6510736000491306,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.7110567999770865,
+            "code": "ABS_Y",
+            "state": -11830
+        },
+        {
+            "time": 2.7111491999821737,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.7261478999862447,
+            "code": "ABS_X",
+            "state": -22701
+        },
+        {
+            "time": 2.72628300008364,
+            "code": "ABS_Y",
+            "state": -11800
+        },
+        {
+            "time": 2.726344000082463,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.7411197000183165,
+            "code": "ABS_X",
+            "state": -22675
+        },
+        {
+            "time": 2.7411823000293225,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.7561495000263676,
+            "code": "ABS_X",
+            "state": -22390
+        },
+        {
+            "time": 2.7562654999783263,
+            "code": "ABS_Y",
+            "state": -11769
+        },
+        {
+            "time": 2.7563540000701323,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.7710751000558957,
+            "code": "ABS_X",
+            "state": -20885
+        },
+        {
+            "time": 2.7712150000734255,
+            "code": "ABS_Y",
+            "state": -11830
+        },
+        {
+            "time": 2.771276200073771,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.785805099993013,
+            "code": "ABS_X",
+            "state": -17797
+        },
+        {
+            "time": 2.7860032999888062,
+            "code": "ABS_Y",
+            "state": -11860
+        },
+        {
+            "time": 2.786046899971552,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.8015205999836326,
+            "code": "ABS_X",
+            "state": -14217
+        },
+        {
+            "time": 2.801668400061317,
+            "code": "ABS_Y",
+            "state": -11769
+        },
+        {
+            "time": 2.801729900063947,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.8158198000164703,
+            "code": "ABS_X",
+            "state": -12401
+        },
+        {
+            "time": 2.815999999991618,
+            "code": "ABS_Y",
+            "state": -11830
+        },
+        {
+            "time": 2.8160407000686973,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.8308807000285015,
+            "code": "ABS_X",
+            "state": -10792
+        },
+        {
+            "time": 2.830987700028345,
+            "code": "ABS_Y",
+            "state": -11467
+        },
+        {
+            "time": 2.8310336000286043,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.8460219000699,
+            "code": "ABS_X",
+            "state": -7575
+        },
+        {
+            "time": 2.8460965000558645,
+            "code": "ABS_Y",
+            "state": -9379
+        },
+        {
+            "time": 2.846127000055276,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.8610452000284567,
+            "code": "ABS_X",
+            "state": -3891
+        },
+        {
+            "time": 2.8613914999878034,
+            "code": "ABS_Y",
+            "state": -5658
+        },
+        {
+            "time": 2.8614392000017688,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 2.875985100050457,
+            "code": "ABS_X",
+            "state": 0
+        },
+        {
+            "time": 2.8760897000320256,
+            "code": "ABS_Y",
+            "state": 0
+        },
+        {
+            "time": 2.8761431999737397,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 3.50590300001204,
+            "code": "ABS_X",
+            "state": -181
+        },
+        {
+            "time": 3.5059992000460625,
+            "code": "ABS_Y",
+            "state": -6444
+        },
+        {
+            "time": 3.506630500080064,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 3.5210739000467584,
+            "code": "ABS_X",
+            "state": -155
+        },
+        {
+            "time": 3.521181800053455,
+            "code": "ABS_Y",
+            "state": -7322
+        },
+        {
+            "time": 3.521229200065136,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 3.5357412999728695,
+            "code": "ABS_X",
+            "state": -129
+        },
+        {
+            "time": 3.535865999991074,
+            "code": "ABS_Y",
+            "state": -8199
+        },
+        {
+            "time": 3.5359233000781387,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 3.551551999989897,
+            "code": "ABS_X",
+            "state": -155
+        },
+        {
+            "time": 3.551704699988477,
+            "code": "ABS_Y",
+            "state": -9016
+        },
+        {
+            "time": 3.551828099996783,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 3.566209000069648,
+            "code": "ABS_X",
+            "state": -129
+        },
+        {
+            "time": 3.5663379000034183,
+            "code": "ABS_Y",
+            "state": -9530
+        },
+        {
+            "time": 3.566383400000632,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 3.581060199998319,
+            "code": "ABS_X",
+            "state": -181
+        },
+        {
+            "time": 3.5811873000347987,
+            "code": "ABS_Y",
+            "state": -10135
+        },
+        {
+            "time": 3.5812349000480026,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 3.596034500049427,
+            "code": "ABS_X",
+            "state": -155
+        },
+        {
+            "time": 3.5962316000368446,
+            "code": "ABS_Y",
+            "state": -10710
+        },
+        {
+            "time": 3.5962765000294894,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 3.611050200066529,
+            "code": "ABS_X",
+            "state": -181
+        },
+        {
+            "time": 3.6111312999855727,
+            "code": "ABS_Y",
+            "state": -10952
+        },
+        {
+            "time": 3.6112321000546217,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 3.6257415000582114,
+            "code": "ABS_X",
+            "state": -155
+        },
+        {
+            "time": 3.626054499996826,
+            "code": "ABS_Y",
+            "state": -11285
+        },
+        {
+            "time": 3.626130499993451,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 3.6410939000779763,
+            "code": "ABS_Y",
+            "state": -11497
+        },
+        {
+            "time": 3.641152400057763,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 3.655886900029145,
+            "code": "ABS_Y",
+            "state": -11739
+        },
+        {
+            "time": 3.656077300081961,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 3.670999599969946,
+            "code": "ABS_X",
+            "state": -181
+        },
+        {
+            "time": 3.6711947000585496,
+            "code": "ABS_Y",
+            "state": -11890
+        },
+        {
+            "time": 3.6712317999918014,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 3.6860453999834135,
+            "code": "ABS_X",
+            "state": -155
+        },
+        {
+            "time": 3.6861395000014454,
+            "code": "ABS_Y",
+            "state": -11921
+        },
+        {
+            "time": 3.686193000059575,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 3.7008363000350073,
+            "code": "ABS_X",
+            "state": -181
+        },
+        {
+            "time": 3.7009247000096366,
+            "code": "ABS_Y",
+            "state": -12042
+        },
+        {
+            "time": 3.7009567000204697,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 3.7161592000629753,
+            "code": "ABS_X",
+            "state": -155
+        },
+        {
+            "time": 3.716241199988872,
+            "code": "ABS_Y",
+            "state": -12374
+        },
+        {
+            "time": 3.7162802000530064,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 3.731066800071858,
+            "code": "ABS_X",
+            "state": -181
+        },
+        {
+            "time": 3.7311837000306696,
+            "code": "ABS_Y",
+            "state": -12828
+        },
+        {
+            "time": 3.731267899973318,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 3.7457855000393465,
+            "code": "ABS_Y",
+            "state": -13585
+        },
+        {
+            "time": 3.7458362000761554,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 3.7608069999841973,
+            "code": "ABS_X",
+            "state": -155
+        },
+        {
+            "time": 3.7609217000426725,
+            "code": "ABS_Y",
+            "state": -14341
+        },
+        {
+            "time": 3.76096610003151,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 3.776191500015557,
+            "code": "ABS_Y",
+            "state": -14916
+        },
+        {
+            "time": 3.7762455000774935,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 3.790897800005041,
+            "code": "ABS_X",
+            "state": -129
+        },
+        {
+            "time": 3.7910271000582725,
+            "code": "ABS_Y",
+            "state": -15491
+        },
+        {
+            "time": 3.791125199990347,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 3.8058040000032634,
+            "code": "ABS_X",
+            "state": -25
+        },
+        {
+            "time": 3.8059209000784904,
+            "code": "ABS_Y",
+            "state": -15733
+        },
+        {
+            "time": 3.8059760000323877,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 3.8209796000737697,
+            "code": "ABS_X",
+            "state": 28
+        },
+        {
+            "time": 3.82105979998596,
+            "code": "ABS_Y",
+            "state": -15854
+        },
+        {
+            "time": 3.8210963000310585,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 3.837383200065233,
+            "code": "ABS_X",
+            "state": 143
+        },
+        {
+            "time": 3.83805600006599,
+            "code": "ABS_Y",
+            "state": -15915
+        },
+        {
+            "time": 3.8381232999963686,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 3.8509033999871463,
+            "code": "ABS_X",
+            "state": 372
+        },
+        {
+            "time": 3.8509428000543267,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 3.8660483000567183,
+            "code": "ABS_X",
+            "state": 659
+        },
+        {
+            "time": 3.8663183000171557,
+            "code": "ABS_Y",
+            "state": -15884
+        },
+        {
+            "time": 3.8664104000199586,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 3.880905900034122,
+            "code": "ABS_X",
+            "state": 917
+        },
+        {
+            "time": 3.8810647000791505,
+            "code": "ABS_Y",
+            "state": -15975
+        },
+        {
+            "time": 3.8811890999786556,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 3.8960438000503927,
+            "code": "ABS_X",
+            "state": 1261
+        },
+        {
+            "time": 3.896103300037794,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 3.911359900026582,
+            "code": "ABS_X",
+            "state": 1376
+        },
+        {
+            "time": 3.911474999971688,
+            "code": "ABS_Y",
+            "state": -16126
+        },
+        {
+            "time": 3.911512800026685,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 3.9260716000571847,
+            "code": "ABS_Y",
+            "state": -16157
+        },
+        {
+            "time": 3.9261178000597283,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 3.940961000043899,
+            "code": "ABS_X",
+            "state": 1404
+        },
+        {
+            "time": 3.9411044999724254,
+            "code": "ABS_Y",
+            "state": -16217
+        },
+        {
+            "time": 3.941147300065495,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 3.9562427999917418,
+            "code": "ABS_X",
+            "state": 1376
+        },
+        {
+            "time": 3.9563006000826135,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 3.971019500051625,
+            "code": "ABS_X",
+            "state": 1404
+        },
+        {
+            "time": 3.971150500001386,
+            "code": "ABS_Y",
+            "state": -16187
+        },
+        {
+            "time": 3.9711937999818474,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 3.9858949000481516,
+            "code": "ABS_Y",
+            "state": -16278
+        },
+        {
+            "time": 3.985952500021085,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.00112250004895,
+            "code": "ABS_X",
+            "state": 1376
+        },
+        {
+            "time": 4.001221299986355,
+            "code": "ABS_Y",
+            "state": -16217
+        },
+        {
+            "time": 4.001376600004733,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.015823599998839,
+            "code": "ABS_X",
+            "state": 1404
+        },
+        {
+            "time": 4.015902700019069,
+            "code": "ABS_Y",
+            "state": -16247
+        },
+        {
+            "time": 4.01593039999716,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.046132000046782,
+            "code": "ABS_Y",
+            "state": -16187
+        },
+        {
+            "time": 4.04620960005559,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.060722300084308,
+            "code": "ABS_X",
+            "state": 1433
+        },
+        {
+            "time": 4.060932100052014,
+            "code": "ABS_Y",
+            "state": -16247
+        },
+        {
+            "time": 4.060988400015049,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.075964100076817,
+            "code": "ABS_X",
+            "state": 1376
+        },
+        {
+            "time": 4.076053500059061,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.090989300049841,
+            "code": "ABS_X",
+            "state": 1404
+        },
+        {
+            "time": 4.0910752000054345,
+            "code": "ABS_Y",
+            "state": -16217
+        },
+        {
+            "time": 4.0911266000475734,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.105753800016828,
+            "code": "ABS_Y",
+            "state": -15763
+        },
+        {
+            "time": 4.10580750007648,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.121122600045055,
+            "code": "ABS_Y",
+            "state": -12768
+        },
+        {
+            "time": 4.1211930999998,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.135867599979974,
+            "code": "ABS_X",
+            "state": 1433
+        },
+        {
+            "time": 4.135926100076176,
+            "code": "ABS_Y",
+            "state": -8108
+        },
+        {
+            "time": 4.135958299972117,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.1507782000117,
+            "code": "ABS_X",
+            "state": 0
+        },
+        {
+            "time": 4.150841700029559,
+            "code": "ABS_Y",
+            "state": 0
+        },
+        {
+            "time": 4.150865699979477,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.601203500060365,
+            "code": "ABS_X",
+            "state": 1376
+        },
+        {
+            "time": 4.601328400080092,
+            "code": "ABS_Y",
+            "state": 6932
+        },
+        {
+            "time": 4.601391099975444,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.61604770005215,
+            "code": "ABS_X",
+            "state": 1404
+        },
+        {
+            "time": 4.616132399998605,
+            "code": "ABS_Y",
+            "state": 9087
+        },
+        {
+            "time": 4.616162099991925,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.63083080004435,
+            "code": "ABS_X",
+            "state": 1433
+        },
+        {
+            "time": 4.630904700024985,
+            "code": "ABS_Y",
+            "state": 11242
+        },
+        {
+            "time": 4.630974599975161,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.64613000000827,
+            "code": "ABS_Y",
+            "state": 13689
+        },
+        {
+            "time": 4.646190700004809,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.6613532999763265,
+            "code": "ABS_Y",
+            "state": 15058
+        },
+        {
+            "time": 4.6614116000710055,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.676025700056925,
+            "code": "ABS_Y",
+            "state": 15815
+        },
+        {
+            "time": 4.676086000050418,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.690698500024155,
+            "code": "ABS_X",
+            "state": 1490
+        },
+        {
+            "time": 4.69081359996926,
+            "code": "ABS_Y",
+            "state": 16019
+        },
+        {
+            "time": 4.690856200060807,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.705974000040442,
+            "code": "ABS_X",
+            "state": 1720
+        },
+        {
+            "time": 4.706154700019397,
+            "code": "ABS_Y",
+            "state": 16048
+        },
+        {
+            "time": 4.706190500059165,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.720988000044599,
+            "code": "ABS_X",
+            "state": 2092
+        },
+        {
+            "time": 4.7210661000572145,
+            "code": "ABS_Y",
+            "state": 16106
+        },
+        {
+            "time": 4.721109100035392,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.735794199979864,
+            "code": "ABS_X",
+            "state": 2236
+        },
+        {
+            "time": 4.735874900012277,
+            "code": "ABS_Y",
+            "state": 16077
+        },
+        {
+            "time": 4.735912800068036,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.75080809998326,
+            "code": "ABS_X",
+            "state": 2293
+        },
+        {
+            "time": 4.75088860001415,
+            "code": "ABS_Y",
+            "state": 16048
+        },
+        {
+            "time": 4.750931199989282,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.766052099992521,
+            "code": "ABS_X",
+            "state": 2350
+        },
+        {
+            "time": 4.766116700018756,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.7809053000528365,
+            "code": "ABS_X",
+            "state": 2322
+        },
+        {
+            "time": 4.780954600078985,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.7958132000640035,
+            "code": "ABS_X",
+            "state": 2350
+        },
+        {
+            "time": 4.795931300031953,
+            "code": "ABS_Y",
+            "state": 16077
+        },
+        {
+            "time": 4.795990000013262,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.826113900053315,
+            "code": "ABS_X",
+            "state": 2322
+        },
+        {
+            "time": 4.826312400051393,
+            "code": "ABS_Y",
+            "state": 16106
+        },
+        {
+            "time": 4.8263723000418395,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.840703799971379,
+            "code": "ABS_X",
+            "state": 2350
+        },
+        {
+            "time": 4.840796199976467,
+            "code": "ABS_Y",
+            "state": 16077
+        },
+        {
+            "time": 4.8408265999751166,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.870894200052135,
+            "code": "ABS_X",
+            "state": 2379
+        },
+        {
+            "time": 4.870979500003159,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.885993600008078,
+            "code": "ABS_X",
+            "state": 2322
+        },
+        {
+            "time": 4.886095500085503,
+            "code": "ABS_Y",
+            "state": 16106
+        },
+        {
+            "time": 4.886143799987622,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.901131000020541,
+            "code": "ABS_X",
+            "state": 2350
+        },
+        {
+            "time": 4.90135270007886,
+            "code": "ABS_Y",
+            "state": 16077
+        },
+        {
+            "time": 4.901399400085211,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.915760300005786,
+            "code": "ABS_Y",
+            "state": 16048
+        },
+        {
+            "time": 4.91580650000833,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.931054100045003,
+            "code": "ABS_X",
+            "state": 2379
+        },
+        {
+            "time": 4.931153999990784,
+            "code": "ABS_Y",
+            "state": 16077
+        },
+        {
+            "time": 4.931191100040451,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.946205100044608,
+            "code": "ABS_X",
+            "state": 2350
+        },
+        {
+            "time": 4.946269100066274,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.960834700032137,
+            "code": "ABS_X",
+            "state": 2379
+        },
+        {
+            "time": 4.961076400009915,
+            "code": "ABS_Y",
+            "state": 16048
+        },
+        {
+            "time": 4.961121000000276,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.976050700061023,
+            "code": "ABS_X",
+            "state": 2322
+        },
+        {
+            "time": 4.976108700037003,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 4.99109090003185,
+            "code": "ABS_X",
+            "state": 2379
+        },
+        {
+            "time": 4.991247700061649,
+            "code": "ABS_Y",
+            "state": 16077
+        },
+        {
+            "time": 4.991330499993637,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.005707300035283,
+            "code": "ABS_X",
+            "state": 2322
+        },
+        {
+            "time": 5.005826300010085,
+            "code": "ABS_Y",
+            "state": 16048
+        },
+        {
+            "time": 5.00586979999207,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.021214500069618,
+            "code": "ABS_X",
+            "state": 2379
+        },
+        {
+            "time": 5.021326299989596,
+            "code": "ABS_Y",
+            "state": 16077
+        },
+        {
+            "time": 5.021376100019552,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.05091720004566,
+            "code": "ABS_X",
+            "state": 2350
+        },
+        {
+            "time": 5.050957700004801,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.081058999989182,
+            "code": "ABS_X",
+            "state": 2379
+        },
+        {
+            "time": 5.081150699988939,
+            "code": "ABS_Y",
+            "state": 16048
+        },
+        {
+            "time": 5.081196199986152,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.095708800014108,
+            "code": "ABS_Y",
+            "state": 16077
+        },
+        {
+            "time": 5.095755200018175,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.1109043000033125,
+            "code": "ABS_X",
+            "state": 2322
+        },
+        {
+            "time": 5.111003200057894,
+            "code": "ABS_Y",
+            "state": 16048
+        },
+        {
+            "time": 5.111040199990384,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.126127100083977,
+            "code": "ABS_Y",
+            "state": 16077
+        },
+        {
+            "time": 5.126179200015031,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.141207900014706,
+            "code": "ABS_X",
+            "state": 2350
+        },
+        {
+            "time": 5.141256500035524,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.15595080005005,
+            "code": "ABS_Y",
+            "state": 16048
+        },
+        {
+            "time": 5.156011100043543,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.170895599992946,
+            "code": "ABS_Y",
+            "state": 16106
+        },
+        {
+            "time": 5.170972399995662,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.185883200028911,
+            "code": "ABS_X",
+            "state": 2379
+        },
+        {
+            "time": 5.185980600072071,
+            "code": "ABS_Y",
+            "state": 16310
+        },
+        {
+            "time": 5.186015899991617,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.201384500018321,
+            "code": "ABS_X",
+            "state": 2637
+        },
+        {
+            "time": 5.2015351000009105,
+            "code": "ABS_Y",
+            "state": 16631
+        },
+        {
+            "time": 5.201587100047618,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.215742800035514,
+            "code": "ABS_X",
+            "state": 3153
+        },
+        {
+            "time": 5.215816900017671,
+            "code": "ABS_Y",
+            "state": 16893
+        },
+        {
+            "time": 5.215855400077999,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.230953400023282,
+            "code": "ABS_X",
+            "state": 3526
+        },
+        {
+            "time": 5.231056499993429,
+            "code": "ABS_Y",
+            "state": 16922
+        },
+        {
+            "time": 5.231102899997495,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.246129699982703,
+            "code": "ABS_X",
+            "state": 3870
+        },
+        {
+            "time": 5.246257600025274,
+            "code": "ABS_Y",
+            "state": 16980
+        },
+        {
+            "time": 5.246306600049138,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.260794200003147,
+            "code": "ABS_X",
+            "state": 4328
+        },
+        {
+            "time": 5.260877600056119,
+            "code": "ABS_Y",
+            "state": 17009
+        },
+        {
+            "time": 5.2609167000046,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.275981700047851,
+            "code": "ABS_X",
+            "state": 4730
+        },
+        {
+            "time": 5.276096999994479,
+            "code": "ABS_Y",
+            "state": 17038
+        },
+        {
+            "time": 5.276147900032811,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.291160900029354,
+            "code": "ABS_X",
+            "state": 5217
+        },
+        {
+            "time": 5.291350700077601,
+            "code": "ABS_Y",
+            "state": 17067
+        },
+        {
+            "time": 5.2914191000163555,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.30582620005589,
+            "code": "ABS_X",
+            "state": 5418
+        },
+        {
+            "time": 5.30588010000065,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.3207680999767035,
+            "code": "ABS_X",
+            "state": 5504
+        },
+        {
+            "time": 5.321381699992344,
+            "code": "ABS_Y",
+            "state": 17097
+        },
+        {
+            "time": 5.321438500075601,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.336104099988006,
+            "code": "ABS_X",
+            "state": 5590
+        },
+        {
+            "time": 5.336205300060101,
+            "code": "ABS_Y",
+            "state": 17067
+        },
+        {
+            "time": 5.336238600080833,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.351198600023054,
+            "code": "ABS_X",
+            "state": 5561
+        },
+        {
+            "time": 5.3512804000638425,
+            "code": "ABS_Y",
+            "state": 17097
+        },
+        {
+            "time": 5.351308700046502,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.365806300076656,
+            "code": "ABS_X",
+            "state": 5532
+        },
+        {
+            "time": 5.365849000052549,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.395821399986744,
+            "code": "ABS_Z",
+            "state": 0
+        },
+        {
+            "time": 5.395935400039889,
+            "code": "ABS_X",
+            "state": 5561
+        },
+        {
+            "time": 5.396363600040786,
+            "code": "ABS_Y",
+            "state": 17126
+        },
+        {
+            "time": 5.39642190001905,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.410953200072981,
+            "code": "ABS_Y",
+            "state": 17097
+        },
+        {
+            "time": 5.411007400020026,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.426107099978253,
+            "code": "ABS_X",
+            "state": 5590
+        },
+        {
+            "time": 5.426211600075476,
+            "code": "ABS_Y",
+            "state": 17126
+        },
+        {
+            "time": 5.426244999980554,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.4420556999975815,
+            "code": "ABS_X",
+            "state": 5561
+        },
+        {
+            "time": 5.442166300024837,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.456186300027184,
+            "code": "ABS_Y",
+            "state": 17097
+        },
+        {
+            "time": 5.456293500028551,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.471240899991244,
+            "code": "ABS_Y",
+            "state": 17067
+        },
+        {
+            "time": 5.471315099974163,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.485898800077848,
+            "code": "ABS_Y",
+            "state": 17097
+        },
+        {
+            "time": 5.485958200064488,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.500983300036751,
+            "code": "ABS_X",
+            "state": 5590
+        },
+        {
+            "time": 5.50107930006925,
+            "code": "ABS_Y",
+            "state": 17126
+        },
+        {
+            "time": 5.501120500033721,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.5161349000409245,
+            "code": "ABS_X",
+            "state": 5561
+        },
+        {
+            "time": 5.51627899997402,
+            "code": "ABS_Y",
+            "state": 17097
+        },
+        {
+            "time": 5.516325299977325,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.546087900060229,
+            "code": "ABS_Y",
+            "state": 17126
+        },
+        {
+            "time": 5.546197000076063,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.5613119000336155,
+            "code": "ABS_Y",
+            "state": 17097
+        },
+        {
+            "time": 5.561403700034134,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.575790700037032,
+            "code": "ABS_X",
+            "state": 5590
+        },
+        {
+            "time": 5.575862600002438,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.591368500026874,
+            "code": "ABS_X",
+            "state": 5561
+        },
+        {
+            "time": 5.591516299988143,
+            "code": "ABS_Y",
+            "state": 17155
+        },
+        {
+            "time": 5.591589800082147,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.605915899970569,
+            "code": "ABS_Y",
+            "state": 17097
+        },
+        {
+            "time": 5.605959200067446,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.6207220000214875,
+            "code": "ABS_X",
+            "state": 5532
+        },
+        {
+            "time": 5.620857500005513,
+            "code": "ABS_Y",
+            "state": 17126
+        },
+        {
+            "time": 5.620932999998331,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.635894000064582,
+            "code": "ABS_X",
+            "state": 5561
+        },
+        {
+            "time": 5.635971300071105,
+            "code": "ABS_Y",
+            "state": 17097
+        },
+        {
+            "time": 5.63600270007737,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.651189600001089,
+            "code": "ABS_Y",
+            "state": 17155
+        },
+        {
+            "time": 5.651342099998146,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.665730700013228,
+            "code": "ABS_X",
+            "state": 5590
+        },
+        {
+            "time": 5.665875800070353,
+            "code": "ABS_Y",
+            "state": 17126
+        },
+        {
+            "time": 5.665918300044723,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.681146600050852,
+            "code": "ABS_X",
+            "state": 5532
+        },
+        {
+            "time": 5.681197000085376,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.6962092000758275,
+            "code": "ABS_X",
+            "state": 5590
+        },
+        {
+            "time": 5.696261500008404,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.726149299996905,
+            "code": "ABS_X",
+            "state": 5762
+        },
+        {
+            "time": 5.726254199980758,
+            "code": "ABS_Y",
+            "state": 17067
+        },
+        {
+            "time": 5.726301699993201,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.740934700006619,
+            "code": "ABS_X",
+            "state": 6249
+        },
+        {
+            "time": 5.741052699973807,
+            "code": "ABS_Y",
+            "state": 17097
+        },
+        {
+            "time": 5.741130999987945,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.755806799978018,
+            "code": "ABS_X",
+            "state": 6679
+        },
+        {
+            "time": 5.75585429999046,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.77121530007571,
+            "code": "ABS_X",
+            "state": 6822
+        },
+        {
+            "time": 5.771312299999408,
+            "code": "ABS_Y",
+            "state": 17155
+        },
+        {
+            "time": 5.7713606000179425,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.78606850001961,
+            "code": "ABS_X",
+            "state": 6937
+        },
+        {
+            "time": 5.786158400005661,
+            "code": "ABS_Y",
+            "state": 17097
+        },
+        {
+            "time": 5.786196200060658,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.800909099983983,
+            "code": "ABS_X",
+            "state": 7711
+        },
+        {
+            "time": 5.801032399991527,
+            "code": "ABS_Y",
+            "state": 17126
+        },
+        {
+            "time": 5.801077099982649,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.81637120002415,
+            "code": "ABS_X",
+            "state": 9116
+        },
+        {
+            "time": 5.816501599969342,
+            "code": "ABS_Y",
+            "state": 17097
+        },
+        {
+            "time": 5.81653940002434,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.831018200027756,
+            "code": "ABS_X",
+            "state": 11295
+        },
+        {
+            "time": 5.831128400051966,
+            "code": "ABS_Y",
+            "state": 17126
+        },
+        {
+            "time": 5.831171700032428,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.845719499979168,
+            "code": "ABS_X",
+            "state": 12212
+        },
+        {
+            "time": 5.845851200050674,
+            "code": "ABS_Y",
+            "state": 16980
+        },
+        {
+            "time": 5.84589340002276,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.861256500007585,
+            "code": "ABS_X",
+            "state": 12814
+        },
+        {
+            "time": 5.861453999998048,
+            "code": "ABS_Y",
+            "state": 16893
+        },
+        {
+            "time": 5.861526500084437,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.875984200043604,
+            "code": "ABS_X",
+            "state": 13129
+        },
+        {
+            "time": 5.87608000007458,
+            "code": "ABS_Y",
+            "state": 16864
+        },
+        {
+            "time": 5.87612250004895,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.890738800051622,
+            "code": "ABS_X",
+            "state": 13158
+        },
+        {
+            "time": 5.890773100079969,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.906203499995172,
+            "code": "ABS_X",
+            "state": 13215
+        },
+        {
+            "time": 5.906263899989426,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.921214699978009,
+            "code": "ABS_X",
+            "state": 13158
+        },
+        {
+            "time": 5.921315300045535,
+            "code": "ABS_Y",
+            "state": 16893
+        },
+        {
+            "time": 5.92144800000824,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.935833900002763,
+            "code": "ABS_X",
+            "state": 13187
+        },
+        {
+            "time": 5.935883300029673,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.951295500039123,
+            "code": "ABS_X",
+            "state": 13215
+        },
+        {
+            "time": 5.95142970001325,
+            "code": "ABS_Y",
+            "state": 16864
+        },
+        {
+            "time": 5.951633800053969,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.980849100043997,
+            "code": "ABS_X",
+            "state": 13187
+        },
+        {
+            "time": 5.980999600025825,
+            "code": "ABS_Y",
+            "state": 16893
+        },
+        {
+            "time": 5.981106200022623,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 5.9964446000522,
+            "code": "ABS_X",
+            "state": 13215
+        },
+        {
+            "time": 5.996585800079629,
+            "code": "ABS_Y",
+            "state": 16834
+        },
+        {
+            "time": 5.996631100075319,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.011197500047274,
+            "code": "ABS_X",
+            "state": 13187
+        },
+        {
+            "time": 6.011409400030971,
+            "code": "ABS_Y",
+            "state": 16864
+        },
+        {
+            "time": 6.01162080001086,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.025916100014001,
+            "code": "ABS_X",
+            "state": 13158
+        },
+        {
+            "time": 6.026119100046344,
+            "code": "ABS_Y",
+            "state": 16834
+        },
+        {
+            "time": 6.026226500049233,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.041338799986988,
+            "code": "ABS_X",
+            "state": 13187
+        },
+        {
+            "time": 6.041450200020336,
+            "code": "ABS_Y",
+            "state": 16864
+        },
+        {
+            "time": 6.041494800010696,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.056281800032593,
+            "code": "ABS_Y",
+            "state": 16456
+        },
+        {
+            "time": 6.056333300075494,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.071071100072004,
+            "code": "ABS_X",
+            "state": 13158
+        },
+        {
+            "time": 6.071155300014652,
+            "code": "ABS_Y",
+            "state": 16019
+        },
+        {
+            "time": 6.071188100031577,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.085993200074881,
+            "code": "ABS_X",
+            "state": 13187
+        },
+        {
+            "time": 6.086125300033018,
+            "code": "ABS_Y",
+            "state": 15699
+        },
+        {
+            "time": 6.086179799982347,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.102808100054972,
+            "code": "ABS_X",
+            "state": 13158
+        },
+        {
+            "time": 6.102944700047374,
+            "code": "ABS_Y",
+            "state": 15582
+        },
+        {
+            "time": 6.1029826999874786,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.116062900051475,
+            "code": "ABS_X",
+            "state": 13187
+        },
+        {
+            "time": 6.116155300056562,
+            "code": "ABS_Y",
+            "state": 15378
+        },
+        {
+            "time": 6.116189899970777,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.131213400047272,
+            "code": "ABS_Y",
+            "state": 14970
+        },
+        {
+            "time": 6.131291400059126,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.145916200010106,
+            "code": "ABS_Y",
+            "state": 14796
+        },
+        {
+            "time": 6.145966900046915,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.161533200065605,
+            "code": "ABS_Y",
+            "state": 14766
+        },
+        {
+            "time": 6.1615916000446305,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.176014100085013,
+            "code": "ABS_Y",
+            "state": 14796
+        },
+        {
+            "time": 6.176077299984172,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.191063500009477,
+            "code": "ABS_X",
+            "state": 13158
+        },
+        {
+            "time": 6.191250600037165,
+            "code": "ABS_Y",
+            "state": 14825
+        },
+        {
+            "time": 6.191354900016449,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.205903499969281,
+            "code": "ABS_X",
+            "state": 13187
+        },
+        {
+            "time": 6.205980899976566,
+            "code": "ABS_Y",
+            "state": 14796
+        },
+        {
+            "time": 6.206015200004913,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.221236500074156,
+            "code": "ABS_Y",
+            "state": 14766
+        },
+        {
+            "time": 6.221289900015108,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.236946900025941,
+            "code": "ABS_X",
+            "state": 13158
+        },
+        {
+            "time": 6.236999000073411,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.2508596000261605,
+            "code": "ABS_X",
+            "state": 13187
+        },
+        {
+            "time": 6.250949100009166,
+            "code": "ABS_Y",
+            "state": 14796
+        },
+        {
+            "time": 6.251013100030832,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.266164100030437,
+            "code": "ABS_X",
+            "state": 13215
+        },
+        {
+            "time": 6.266298500006087,
+            "code": "ABS_Y",
+            "state": 14766
+        },
+        {
+            "time": 6.266375000006519,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.281072700046934,
+            "code": "ABS_X",
+            "state": 13158
+        },
+        {
+            "time": 6.28112559998408,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.295698400004767,
+            "code": "ABS_Y",
+            "state": 14737
+        },
+        {
+            "time": 6.295741299982183,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.3109706999966875,
+            "code": "ABS_Y",
+            "state": 14796
+        },
+        {
+            "time": 6.311033500009216,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.325925300014205,
+            "code": "ABS_X",
+            "state": 13187
+        },
+        {
+            "time": 6.32612840004731,
+            "code": "ABS_Y",
+            "state": 14766
+        },
+        {
+            "time": 6.326333699980751,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.340968600008637,
+            "code": "ABS_Y",
+            "state": 14796
+        },
+        {
+            "time": 6.34102030005306,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.355937000014819,
+            "code": "ABS_Y",
+            "state": 14650
+        },
+        {
+            "time": 6.355986400041729,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.371106600039639,
+            "code": "ABS_X",
+            "state": 13158
+        },
+        {
+            "time": 6.371244300040416,
+            "code": "ABS_Y",
+            "state": 14300
+        },
+        {
+            "time": 6.371308600064367,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.385843700030819,
+            "code": "ABS_X",
+            "state": 13244
+        },
+        {
+            "time": 6.385943699977361,
+            "code": "ABS_Y",
+            "state": 13077
+        },
+        {
+            "time": 6.385988000081852,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.401108900085092,
+            "code": "ABS_X",
+            "state": 14219
+        },
+        {
+            "time": 6.4012377000181,
+            "code": "ABS_Y",
+            "state": 11563
+        },
+        {
+            "time": 6.401288400054909,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.416005700011738,
+            "code": "ABS_X",
+            "state": 17200
+        },
+        {
+            "time": 6.41610779997427,
+            "code": "ABS_Y",
+            "state": 9349
+        },
+        {
+            "time": 6.4161494000582024,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.431115100043826,
+            "code": "ABS_X",
+            "state": 20095
+        },
+        {
+            "time": 6.431589100044221,
+            "code": "ABS_Y",
+            "state": 6815
+        },
+        {
+            "time": 6.431936600012705,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.445943600032479,
+            "code": "ABS_X",
+            "state": 21443
+        },
+        {
+            "time": 6.4460457999957725,
+            "code": "ABS_Y",
+            "state": 4951
+        },
+        {
+            "time": 6.446178000071086,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.46096860000398,
+            "code": "ABS_X",
+            "state": 22045
+        },
+        {
+            "time": 6.4610567999770865,
+            "code": "ABS_Y",
+            "state": 4019
+        },
+        {
+            "time": 6.461092900019139,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.475843599997461,
+            "code": "ABS_X",
+            "state": 22274
+        },
+        {
+            "time": 6.4759725000476465,
+            "code": "ABS_Y",
+            "state": 3466
+        },
+        {
+            "time": 6.476028100005351,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.491062300046906,
+            "code": "ABS_Y",
+            "state": 3378
+        },
+        {
+            "time": 6.491127800079994,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.505985000054352,
+            "code": "ABS_Y",
+            "state": 3291
+        },
+        {
+            "time": 6.506026400020346,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.521543200011365,
+            "code": "ABS_X",
+            "state": 22303
+        },
+        {
+            "time": 6.52168210002128,
+            "code": "ABS_Y",
+            "state": 3203
+        },
+        {
+            "time": 6.521726100007072,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.536316100042313,
+            "code": "ABS_Y",
+            "state": 3174
+        },
+        {
+            "time": 6.536403900012374,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.551098000025377,
+            "code": "ABS_X",
+            "state": 22246
+        },
+        {
+            "time": 6.551205400028266,
+            "code": "ABS_Y",
+            "state": 3203
+        },
+        {
+            "time": 6.551256000064313,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.5661203999770805,
+            "code": "ABS_X",
+            "state": 22274
+        },
+        {
+            "time": 6.566214099992067,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.580953199998476,
+            "code": "ABS_X",
+            "state": 22303
+        },
+        {
+            "time": 6.581038900068961,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.596119099995121,
+            "code": "ABS_X",
+            "state": 22274
+        },
+        {
+            "time": 6.596159400069155,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.611270299996249,
+            "code": "ABS_X",
+            "state": 22246
+        },
+        {
+            "time": 6.611320900032297,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.626126900082454,
+            "code": "ABS_X",
+            "state": 22274
+        },
+        {
+            "time": 6.62618190003559,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.640871900017373,
+            "code": "ABS_X",
+            "state": 22303
+        },
+        {
+            "time": 6.64096079999581,
+            "code": "ABS_Y",
+            "state": 3233
+        },
+        {
+            "time": 6.641011100029573,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.6560499999905005,
+            "code": "ABS_Y",
+            "state": 3203
+        },
+        {
+            "time": 6.6560862000333145,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.670954999979585,
+            "code": "ABS_X",
+            "state": 22274
+        },
+        {
+            "time": 6.671054600039497,
+            "code": "ABS_Y",
+            "state": 3233
+        },
+        {
+            "time": 6.671089000068605,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.686203600023873,
+            "code": "ABS_X",
+            "state": 22246
+        },
+        {
+            "time": 6.686293300008401,
+            "code": "ABS_Y",
+            "state": 3174
+        },
+        {
+            "time": 6.68633639998734,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.715871699969284,
+            "code": "ABS_X",
+            "state": 22274
+        },
+        {
+            "time": 6.715989300049841,
+            "code": "ABS_Y",
+            "state": 3145
+        },
+        {
+            "time": 6.716072899987921,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.731046200031415,
+            "code": "ABS_X",
+            "state": 22246
+        },
+        {
+            "time": 6.731153000029735,
+            "code": "ABS_Y",
+            "state": 3174
+        },
+        {
+            "time": 6.731194299994968,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.746017700061202,
+            "code": "ABS_X",
+            "state": 21357
+        },
+        {
+            "time": 6.7462696000002325,
+            "code": "ABS_Y",
+            "state": 3116
+        },
+        {
+            "time": 6.746314899995923,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.760882699978538,
+            "code": "ABS_X",
+            "state": 19723
+        },
+        {
+            "time": 6.7610561000183225,
+            "code": "ABS_Y",
+            "state": 3087
+        },
+        {
+            "time": 6.761119900038466,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.776097599999048,
+            "code": "ABS_X",
+            "state": 15996
+        },
+        {
+            "time": 6.7762193999951705,
+            "code": "ABS_Y",
+            "state": 2912
+        },
+        {
+            "time": 6.776279899990186,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.791215499979444,
+            "code": "ABS_X",
+            "state": 9030
+        },
+        {
+            "time": 6.791623100056313,
+            "code": "ABS_Y",
+            "state": 2621
+        },
+        {
+            "time": 6.791695200023241,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 6.8058561000507325,
+            "code": "ABS_X",
+            "state": 0
+        },
+        {
+            "time": 6.805944700026885,
+            "code": "ABS_Y",
+            "state": 0
+        },
+        {
+            "time": 6.805989300017245,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.031052600010298,
+            "code": "ABS_X",
+            "state": 6478
+        },
+        {
+            "time": 7.031196400057524,
+            "code": "ABS_Y",
+            "state": 1660
+        },
+        {
+            "time": 7.031271700048819,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.046019300003536,
+            "code": "ABS_X",
+            "state": 11897
+        },
+        {
+            "time": 7.046110600000247,
+            "code": "ABS_Y",
+            "state": 1689
+        },
+        {
+            "time": 7.04620059998706,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.06114050000906,
+            "code": "ABS_X",
+            "state": 17515
+        },
+        {
+            "time": 7.0612381000537425,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 7.0612846000585705,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.076159800053574,
+            "code": "ABS_X",
+            "state": 21357
+        },
+        {
+            "time": 7.076216400018893,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.091063000028953,
+            "code": "ABS_X",
+            "state": 23736
+        },
+        {
+            "time": 7.0911229000194,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.105675800004974,
+            "code": "ABS_X",
+            "state": 25456
+        },
+        {
+            "time": 7.105745500070043,
+            "code": "ABS_Y",
+            "state": 1660
+        },
+        {
+            "time": 7.1057818999979645,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.1212128000333905,
+            "code": "ABS_X",
+            "state": 25944
+        },
+        {
+            "time": 7.121347000007518,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 7.121398300048895,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.1362477000802755,
+            "code": "ABS_X",
+            "state": 26001
+        },
+        {
+            "time": 7.136351800058037,
+            "code": "ABS_Y",
+            "state": 1660
+        },
+        {
+            "time": 7.136384800076485,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.150919200037606,
+            "code": "ABS_X",
+            "state": 25972
+        },
+        {
+            "time": 7.15105039998889,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 7.151098100002855,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.195818400010467,
+            "code": "ABS_X",
+            "state": 26001
+        },
+        {
+            "time": 7.195911700022407,
+            "code": "ABS_Y",
+            "state": 1660
+        },
+        {
+            "time": 7.1959467000560835,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.211334399995394,
+            "code": "ABS_X",
+            "state": 25686
+        },
+        {
+            "time": 7.21144570002798,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 7.211491500027478,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.226372400065884,
+            "code": "ABS_X",
+            "state": 22790
+        },
+        {
+            "time": 7.22647680004593,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 7.226524000056088,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.2410054000793025,
+            "code": "ABS_X",
+            "state": 19723
+        },
+        {
+            "time": 7.241142000071704,
+            "code": "ABS_Y",
+            "state": 1660
+        },
+        {
+            "time": 7.241301400004886,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.256445600069128,
+            "code": "ABS_X",
+            "state": 16111
+        },
+        {
+            "time": 7.256505300058052,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.27113480004482,
+            "code": "ABS_X",
+            "state": 13043
+        },
+        {
+            "time": 7.27121050003916,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 7.2712403000332415,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.2858734000474215,
+            "code": "ABS_X",
+            "state": 11151
+        },
+        {
+            "time": 7.285975800012238,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.301382499979809,
+            "code": "ABS_X",
+            "state": 10664
+        },
+        {
+            "time": 7.301448400015943,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.316228099982254,
+            "code": "ABS_X",
+            "state": 10692
+        },
+        {
+            "time": 7.316308900015429,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.330831600003876,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 7.330874499981292,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.346122200018726,
+            "code": "ABS_X",
+            "state": 10721
+        },
+        {
+            "time": 7.346269599976949,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 7.346315399976447,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.361137200030498,
+            "code": "ABS_X",
+            "state": 10692
+        },
+        {
+            "time": 7.361231000046246,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 7.361269699991681,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.37600360007491,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 7.37605960003566,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.390830400050618,
+            "code": "ABS_X",
+            "state": 10664
+        },
+        {
+            "time": 7.390906800050288,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 7.390939600067213,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.406300300033763,
+            "code": "ABS_X",
+            "state": 10692
+        },
+        {
+            "time": 7.406380900065415,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 7.406428200076334,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.421469200053252,
+            "code": "ABS_X",
+            "state": 10721
+        },
+        {
+            "time": 7.421566899982281,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 7.421604000031948,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.450867300038226,
+            "code": "ABS_X",
+            "state": 10750
+        },
+        {
+            "time": 7.450908500002697,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.466108200023882,
+            "code": "ABS_X",
+            "state": 10721
+        },
+        {
+            "time": 7.466226699994877,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 7.4662800000514835,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.496167300036177,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 7.496213500038721,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.511286200024188,
+            "code": "ABS_X",
+            "state": 10664
+        },
+        {
+            "time": 7.511461800080724,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 7.511557799996808,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.541186599992216,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 7.541294499998912,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.556066400022246,
+            "code": "ABS_X",
+            "state": 10692
+        },
+        {
+            "time": 7.556181500083767,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 7.5562398000620306,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.571025500074029,
+            "code": "ABS_X",
+            "state": 10664
+        },
+        {
+            "time": 7.571080300025642,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.60086670005694,
+            "code": "ABS_X",
+            "state": 10692
+        },
+        {
+            "time": 7.600923700025305,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.616385800065473,
+            "code": "ABS_X",
+            "state": 10664
+        },
+        {
+            "time": 7.616439700010233,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.631266999989748,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 7.631322600063868,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.645963200018741,
+            "code": "ABS_X",
+            "state": 10692
+        },
+        {
+            "time": 7.6462344999890774,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 7.64629030006472,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.661004800000228,
+            "code": "ABS_X",
+            "state": 10922
+        },
+        {
+            "time": 7.6610693000257015,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.67664100008551,
+            "code": "ABS_X",
+            "state": 11151
+        },
+        {
+            "time": 7.676862700027414,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.691212399979122,
+            "code": "ABS_X",
+            "state": 11180
+        },
+        {
+            "time": 7.691322600003332,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 7.691478900029324,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.721268899971619,
+            "code": "ABS_Y",
+            "state": 1572
+        },
+        {
+            "time": 7.7213268000632524,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.736122200032696,
+            "code": "ABS_X",
+            "state": 11209
+        },
+        {
+            "time": 7.736212800024077,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 7.7362528999801725,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.751127999974415,
+            "code": "ABS_X",
+            "state": 11151
+        },
+        {
+            "time": 7.751223900006153,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 7.751296899979934,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.765919100027531,
+            "code": "ABS_X",
+            "state": 11180
+        },
+        {
+            "time": 7.766040400019847,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 7.766121000051498,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.781118000042625,
+            "code": "ABS_X",
+            "state": 11209
+        },
+        {
+            "time": 7.781255300040357,
+            "code": "ABS_Y",
+            "state": 1572
+        },
+        {
+            "time": 7.781365600065328,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.79607380006928,
+            "code": "ABS_X",
+            "state": 11180
+        },
+        {
+            "time": 7.796186399995349,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 7.796447400003672,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.811342900036834,
+            "code": "ABS_X",
+            "state": 11209
+        },
+        {
+            "time": 7.811451600049622,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.826075199991465,
+            "code": "ABS_X",
+            "state": 11180
+        },
+        {
+            "time": 7.826137700001709,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.841507700039074,
+            "code": "ABS_X",
+            "state": 11151
+        },
+        {
+            "time": 7.841657300014049,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 7.8417245000600815,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.855919900001027,
+            "code": "ABS_X",
+            "state": 11180
+        },
+        {
+            "time": 7.8560394999803975,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 7.856088600005023,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.886837300029583,
+            "code": "ABS_X",
+            "state": 11151
+        },
+        {
+            "time": 7.886958800023422,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.901197700062767,
+            "code": "ABS_X",
+            "state": 11209
+        },
+        {
+            "time": 7.901241900050081,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.9313856000080705,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 7.931481200037524,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.946044399985112,
+            "code": "ABS_X",
+            "state": 11180
+        },
+        {
+            "time": 7.946145600057207,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 7.946181199979037,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.961233000038192,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 7.961313200066797,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 7.991335000027902,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 7.991401100065559,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.005804200074635,
+            "code": "ABS_X",
+            "state": 11237
+        },
+        {
+            "time": 8.00587470002938,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 8.005914899986237,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.021055500023067,
+            "code": "ABS_X",
+            "state": 11180
+        },
+        {
+            "time": 8.021218299982138,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 8.021290200063959,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.036449300008826,
+            "code": "ABS_X",
+            "state": 11209
+        },
+        {
+            "time": 8.036634300020523,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 8.036696100025438,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.051598299993202,
+            "code": "ABS_X",
+            "state": 11180
+        },
+        {
+            "time": 8.051697500050068,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 8.051975200069137,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.065901100053452,
+            "code": "ABS_X",
+            "state": 11209
+        },
+        {
+            "time": 8.06602530006785,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 8.066075299982913,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.081119799986482,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 8.081165999989025,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.095898300060071,
+            "code": "ABS_Y",
+            "state": 1543
+        },
+        {
+            "time": 8.09600780007895,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.111020200070925,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 8.111070799990557,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.126125300070271,
+            "code": "ABS_X",
+            "state": 11180
+        },
+        {
+            "time": 8.126162600005046,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.140984400059097,
+            "code": "ABS_X",
+            "state": 11209
+        },
+        {
+            "time": 8.141082499991171,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 8.141224600025453,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.156050399993546,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 8.15611420001369,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.171268000034615,
+            "code": "ABS_X",
+            "state": 11180
+        },
+        {
+            "time": 8.171365300077014,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 8.171397499972954,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.186067900038324,
+            "code": "ABS_X",
+            "state": 11209
+        },
+        {
+            "time": 8.186230099992827,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.201363899977878,
+            "code": "ABS_X",
+            "state": 11180
+        },
+        {
+            "time": 8.20147490000818,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.216262600035407,
+            "code": "ABS_X",
+            "state": 11209
+        },
+        {
+            "time": 8.216395600000396,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 8.216443500015885,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.24631950003095,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 8.246381200035103,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.261374299996532,
+            "code": "ABS_X",
+            "state": 11237
+        },
+        {
+            "time": 8.261596300057136,
+            "code": "ABS_Y",
+            "state": 1660
+        },
+        {
+            "time": 8.261656800052151,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.276020599994808,
+            "code": "ABS_X",
+            "state": 11209
+        },
+        {
+            "time": 8.276168500073254,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 8.276215200079605,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.291037300019525,
+            "code": "ABS_X",
+            "state": 11180
+        },
+        {
+            "time": 8.291128500015475,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 8.291172500001267,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.30630190006923,
+            "code": "ABS_X",
+            "state": 11209
+        },
+        {
+            "time": 8.30650060006883,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 8.306552900001407,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.321458199992776,
+            "code": "ABS_X",
+            "state": 11180
+        },
+        {
+            "time": 8.321550900000148,
+            "code": "ABS_Y",
+            "state": 1660
+        },
+        {
+            "time": 8.32161810004618,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.336205400060862,
+            "code": "ABS_X",
+            "state": 11209
+        },
+        {
+            "time": 8.336394699988887,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 8.336435600067489,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.366032400052063,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 8.36608539998997,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.381550600053743,
+            "code": "ABS_X",
+            "state": 11237
+        },
+        {
+            "time": 8.381698500015773,
+            "code": "ABS_Y",
+            "state": 1660
+        },
+        {
+            "time": 8.381743800011463,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.396674200077541,
+            "code": "ABS_X",
+            "state": 11180
+        },
+        {
+            "time": 8.396836500032805,
+            "code": "ABS_Y",
+            "state": 1572
+        },
+        {
+            "time": 8.396947900066152,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.411439400049858,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 8.411560400039889,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.426047599990852,
+            "code": "ABS_RZ",
+            "state": 255
+        },
+        {
+            "time": 8.426197799970396,
+            "code": "ABS_X",
+            "state": 11209
+        },
+        {
+            "time": 8.426249800017104,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.440964200068265,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 8.441003700019792,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.516060500056483,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 8.516120800049976,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.530862900079228,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 8.53090210002847,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.54610729997512,
+            "code": "ABS_X",
+            "state": 11180
+        },
+        {
+            "time": 8.546240500058047,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 8.54645210003946,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.561236800043844,
+            "code": "ABS_X",
+            "state": 11237
+        },
+        {
+            "time": 8.561343900044449,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 8.561385700013489,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.576444700011052,
+            "code": "ABS_X",
+            "state": 11209
+        },
+        {
+            "time": 8.576498200069182,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.591186100034975,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 8.59125010005664,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.621165500022471,
+            "code": "ABS_X",
+            "state": 11180
+        },
+        {
+            "time": 8.621265200083144,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 8.621297999983653,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.636261900071986,
+            "code": "ABS_X",
+            "state": 11151
+        },
+        {
+            "time": 8.636432799976319,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 8.636501800036058,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.650912399985828,
+            "code": "ABS_X",
+            "state": 11008
+        },
+        {
+            "time": 8.65099310001824,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 8.651023900019936,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.665972299990244,
+            "code": "ABS_X",
+            "state": 10807
+        },
+        {
+            "time": 8.666069900034927,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 8.666109299985692,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.68127220007591,
+            "code": "ABS_X",
+            "state": 10750
+        },
+        {
+            "time": 8.681380300084129,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 8.681419800035655,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.695891299983487,
+            "code": "ABS_X",
+            "state": 10606
+        },
+        {
+            "time": 8.695988500025123,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 8.696025200071745,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.710921099991538,
+            "code": "ABS_X",
+            "state": 10549
+        },
+        {
+            "time": 8.710961000062525,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.740805300069042,
+            "code": "ABS_X",
+            "state": 10520
+        },
+        {
+            "time": 8.740839599980973,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.771293599973433,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 8.771353600081056,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.785828800057061,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 8.78587919997517,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.815938099985942,
+            "code": "ABS_X",
+            "state": 10492
+        },
+        {
+            "time": 8.81610240007285,
+            "code": "ABS_Y",
+            "state": 1572
+        },
+        {
+            "time": 8.816142900031991,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.830980299971998,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 8.831083000055514,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.84599950001575,
+            "code": "ABS_X",
+            "state": 10463
+        },
+        {
+            "time": 8.846053400076926,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.86122850002721,
+            "code": "ABS_X",
+            "state": 10406
+        },
+        {
+            "time": 8.86133390001487,
+            "code": "ABS_Y",
+            "state": 1572
+        },
+        {
+            "time": 8.861383400042541,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.875886399997398,
+            "code": "ABS_X",
+            "state": 10205
+        },
+        {
+            "time": 8.87599119998049,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 8.87603990000207,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.890962000004947,
+            "code": "ABS_X",
+            "state": 10119
+        },
+        {
+            "time": 8.890999900060706,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.906205800012685,
+            "code": "ABS_X",
+            "state": 10090
+        },
+        {
+            "time": 8.90665840008296,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 8.906808400060982,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.921597099979408,
+            "code": "ABS_X",
+            "state": 10062
+        },
+        {
+            "time": 8.921716600074433,
+            "code": "ABS_Y",
+            "state": 1572
+        },
+        {
+            "time": 8.921815900015645,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.935917900060304,
+            "code": "ABS_X",
+            "state": 10004
+        },
+        {
+            "time": 8.936150000081398,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 8.936208600061946,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.95096879999619,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 8.951019000029191,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.966186200035736,
+            "code": "ABS_X",
+            "state": 10062
+        },
+        {
+            "time": 8.966230800026096,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.980857599992305,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 8.980928700068034,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 8.99585070007015,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 8.995893600047566,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 9.010966400033794,
+            "code": "ABS_X",
+            "state": 10033
+        },
+        {
+            "time": 9.011082599987276,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 9.011130700004287,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 9.026065199985169,
+            "code": "ABS_X",
+            "state": 9861
+        },
+        {
+            "time": 9.026433699997142,
+            "code": "ABS_Y",
+            "state": 1572
+        },
+        {
+            "time": 9.026599199976772,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 9.040868100011721,
+            "code": "ABS_X",
+            "state": 8686
+        },
+        {
+            "time": 9.040952500072308,
+            "code": "ABS_Y",
+            "state": 1631
+        },
+        {
+            "time": 9.040986699983478,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 9.056122199981473,
+            "code": "ABS_X",
+            "state": 7281
+        },
+        {
+            "time": 9.056248300010338,
+            "code": "ABS_Y",
+            "state": 1601
+        },
+        {
+            "time": 9.056295600021258,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 9.071599700022489,
+            "code": "ABS_X",
+            "state": 5991
+        },
+        {
+            "time": 9.071662800037302,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 9.086021300056018,
+            "code": "ABS_X",
+            "state": 0
+        },
+        {
+            "time": 9.086097200051881,
+            "code": "ABS_Y",
+            "state": 0
+        },
+        {
+            "time": 9.086125100031495,
+            "code": "SYN_REPORT",
+            "state": 0
+        },
+        {
+            "time": 14.921000799979083,
+            "code": "ABS_RZ",
+            "state": 0
+        },
+        {
+            "time": 14.92105890007224,
+            "code": "SYN_REPORT",
+            "state": 0
+        }
+    ]
+}
